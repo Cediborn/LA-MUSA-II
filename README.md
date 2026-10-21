@@ -3,7 +3,7 @@
 Complete static website for GLCL — *Your Complete Labour Solution* — built from the
 **GLCL Master Website Build Prompt** with the supplied GLCL media archive.
 
-Live: deployed on **GitHub Pages** from this repository.
+Live: **https://cediborn.github.io/LA-MUSA-II/** (GitHub Pages, branch `main`)
 Company site of record: <https://getlabour.org>
 
 ---
