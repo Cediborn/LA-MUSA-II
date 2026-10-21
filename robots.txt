@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /bios.html
+Sitemap: https://getlabour.org/sitemap.xml
